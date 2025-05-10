@@ -93,3 +93,20 @@ Non-functional requirements define the quality attributes of the system. They de
     * **Intuitive User Interface:** The customer and manager portals should have user-friendly and intuitive interfaces for easy navigation and task completion.
     * **Responsive Design:** The customer-facing application should be responsive and accessible on various devices (desktops, tablets, and mobile phones).
 
+## Use Case Diagrams.
+### What are they?
+Use Case Diagrams are a type of UML (Unified Modeling Language) diagram that visually shows:
+
+- Actors (who interacts with the system, e.g., customers, hotel managers, admins)
+
+- Use cases (the main goals or actions, e.g., search hotels, book hotel, make payment)
+
+- They help clarify system scope, user interactions, and key functionalities at a glance.
+
+### Benefits:
+-  Clarifies system requirements early.
+-  Aligns team understanding of who does what.
+-  Simplifies communication with both technical and non-technical stakeholders.
+-  Helps identify missing or extra features.
+
+
