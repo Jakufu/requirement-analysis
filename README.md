@@ -110,3 +110,27 @@ Use Case Diagrams are a type of UML (Unified Modeling Language) diagram that vis
 -  Helps identify missing or extra features.
 
 ![image alt](https://github.com/Jakufu/requirement-analysis/blob/744fa65a8763a5208d712626f70b316c0a293865/alx-booking-uc.png)
+
+## Acceptance Criteria.
+
+Acceptance Criteria are predefined requirements or conditions that a software product must meet to be accepted by stakeholders, product owners, or end users. They provide a shared understanding of what a successful implementation looks like for each feature.
+
+### Importance of Acceptance Criteria in Requirement Analysis
+- Clarifies scope: Defines exactly what is expected from a feature, helping avoid ambiguity.
+
+- Aligns expectations: Ensures developers, designers, testers, and stakeholders are all on the same page.
+
+- Validates work: Helps QA and stakeholders confirm if the delivered functionality meets business needs.
+
+- Guides testing: Forms the basis for test cases and user acceptance testing (UAT).
+
+### Example: Acceptance Criteria for Checkout Feature
+Feature: Secure Checkout for Hotel Booking
+
+|ID|Criteria|
+|--------|--------|
+|AC-01|User must be able to review booking details before confirming.|
+|AC-02|Checkout must require user authentication (login or sign-up).|
+|AC-03|Payment gateway must process transactions securely.|
+|AC-04|User must receive a confirmation message/email after successful payment.|
+|AC-05|Booking should be marked as “confirmed” in the database after payment.|
