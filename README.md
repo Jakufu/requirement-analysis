@@ -109,4 +109,4 @@ Use Case Diagrams are a type of UML (Unified Modeling Language) diagram that vis
 -  Simplifies communication with both technical and non-technical stakeholders.
 -  Helps identify missing or extra features.
 
-![image alt](image url)
+![image alt](https://github.com/Jakufu/requirement-analysis/blob/main/alx-booking-uc.png.png)
